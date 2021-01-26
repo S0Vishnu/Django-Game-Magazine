@@ -1,1 +1,1 @@
-# Django-gamingupdates-Website
+# Django-Game-Magazine
